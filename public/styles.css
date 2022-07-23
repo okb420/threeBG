@@ -1,0 +1,22 @@
+
+.form {
+    text-align: center;
+    border:2px solid lightblue;
+    padding: 30px;
+    width: 50vw;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15%;
+    z-index: -1;
+
+}
+.heading{
+    color:rgb(132, 132, 251);
+}
+.educativelogo{
+    width: 50px;
+    height: 50px;
+}
+p{
+    color:rgb(119, 119, 249);
+}
